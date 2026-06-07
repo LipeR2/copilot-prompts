@@ -1,110 +1,54 @@
-<!--START_SECTION:header-->
-<div align="center">
-  <p align="center">
-    <img 
-      alt="DIO Education" 
-      src="https://raw.githubusercontent.com/digitalinnovationone/template-github-trilha/main/.github/assets/logo.webp" 
-      width="100px" 
-    />
-    <h1>Título do Curso ou Projeto</h1>
-  </p>
-</div>
-<!--END_SECTION:header-->
+# Projeto: IA Mentor de Carreira: Descubra Seu Futuro em Tech
 
-<p align="center">
-  <img src="https://img.shields.io/static/v1?label=DIO&message=Education&color=E94D5F&labelColor=202024" alt="DIO Project" />
-  <a href="NIVEL"><img  src="https://img.shields.io/static/v1?label=Nivel&message=Basico&color=E94D5F&labelColor=202024" alt="Nivel"></a>
 
-</p>
 
-<!--  -->
-<table align="center">
-<thead>
-  <tr>
-    <td>
-        <p align="center">Expert</p>
-        <a href="https://github.com/felipeAguiarCode">
-        <img src="https://avatars0.githubusercontent.com/u/37452836?v=3&s=115" alt="@felipeAguiarCode"><br>
-      </a>
-    </td>
-    <td colspan="3">
-    <p>🎉 10y+ em sistemas comerciais com .NET C# e NODE.JS.
-      <br/>
-     🌟 Desenvolvedor fullstack - Coordenador de educação na DIO
-      <br/>
-    👨‍💻 Foco em front-ends SPA com React, Angular e Vue.js
-    </p>
-      <a 
-      href="https://www.linkedin.com/in/felipe-me/" 
-      align="center">
-           <img 
-            align="center" 
-            alt="Material de Apoio" 
-            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-            >
-        </a>
-        <a href="https://www.instagram.com/felipeaguiar.exe/" target="_blank">
-            <img 
-              align="center" 
-              alt="Instagram" 
-              src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-            >
-        </a>
-    </td>
-  </tr>
-</thead>
-</table>
-<!--  -->
+## 🤖 Descrição:
+>***O repositório é um Lab. (laboratório) que aplica conceitos do uso e boas práticas de I.A. (Inteligência Artificial), neste caso, um agente que atue como mentor de carreira, ele ajuda o usuário na descoberta de possibilidades de carreira dentro da área Tech (tecnologia) com plano de estudos (roadmaps) para capacitações e aprimoramento de competências.***
 
-<br/>
-<br/>
+## 🗃️ Tópicos de Construção:
+- *Uso e boas práticas com I.A.;*
+- *Uso de prompts de comando; e*
+- *Criação de um cenário fictício para uso.*
 
-## 💻 Sobre o Projeto
+## 💻 Resumos: 
+```
+🦾 Agentes de I.A. + 📑 Prompt Engineering (engenharia de prompt) + 🔮 Outputs (roadmaps)
+```
 
-Vamos construir uma página spa, responsiva, para usar em diversos tipos de micro, pequena e média empresas. Contém as seguintes seções: Header, Navigation, Home, Sobre, Serviços, Depoimentos, Contato e Footer que faz xxx e yyy
+| **Temas** | **Resumos** |
+|-------|---------|
+| **Agentes de I.A.** | Sistemas virtuais autônomos que resolvem problemas sozinhos usando GenAI (Generative Artificial Intelligence) como cérebro. |
+| **Prompt** | São as instruções, perguntas ou textos enviados para GenAI a qual orienta essas respostas ou a criação de um conteúdo. |
+| **Roadmap** |  Um roteiro visual ou cronograma estruturado que define os objetivos, metas e etapas de evolução de um projeto, produto ou carreira ao longo do tempo. |
 
-## 📚 Pré-requisitos de Habilidades e Níveis de Conhecimento
+## 🧰 Framework da Tecnologia:
 
-Antes de ingressar neste conteúdo, é necessário possuir conhecimento prévio nas seguintes áreas:
+### Agentes de IA (AI Agents):
 
-- [habilidades ou conhecimentos prévios necessários] | [Básico, Intermediário, Avançado ou Especialista]
+- São sistemas de GenAI que automatizam fluxos de trabalho complexos, ao minimizar a atuação direta do desenvolvedor no processo.
 
-- _Exemplo_:
+### GenAI (Generative Artificial Intelligence):
 
-  - Java | Básico
-  - Gerenciamento de pacotes | Básico
-  -
+- GenAI, Inteligência Artificial Generativa, tem um ciclo básico que funciona como um sistema que recebe um comando de usuário (input/prompt/script) e transforma essas requisições em algo novo, um resultado final, a resposta (output).
 
-- [Outros pré-requisitos, se aplicável]
+## 📊🗂️🧑🏻‍💻 Atividades Relacionadas:
+- Uso e boas práticas da tecnologia GenAI;
+- Uso dos prompts para definir os agentes (IA Mentor de Carreira);
+- Desenvolvimento da capacidade mínima de construção de GenAI;
+- Elaboração de um cenário fictício para aplicação dos prompts de GenAI;
+- Agent 1 (Entrevistador de Carreira);
+- Agent 2 (Planejador de Carreiras); e
+- Entre outros.
 
-- _Exemplo_:
-  - Lógica de programação
-  - Javascript
+> 🎬Cenário Fictício: Um usuário com expertise em agronegócio que pretende fazer uma transição de carreira para a área de T.I. (tecnologia da informação). Com as seguintes características:
 
-## 🛠️ Habilidades e Sub-habilidades que vamos aprender neste conteúdo
+- Resolver problemas; (característica)
+- Começando do zero; (experiência)
+- 18h por semana; (disponibilidade para estudos)
+- Dados; (preferência)
+- Fazer transição de carreira; (objetivo principal)
+- Dados, inteligência artificial e nuvem; e (assuntos de interesse)
+- Agronegócio. (expertise)
 
-- [Lista das habilidades principais a serem desenvolvidas]
-
-  - [Subhabilidades relacionadas, se aplicável]
-
-- _Exemplo_:
-  - Java
-    - Api Rest
-
-## 🎯 Objetivos e Resultados Esperados
-
-Após a conclusão do curso/projeto, os estudantes estarão aptos a:
-
-- [Descrição do que os estudantes serão capazes de fazer]
-- [Projetos ou soluções que os estudantes estarão aptos a construir]
-
-<!--START_SECTION:footer-->
-
-<br />
-<br />
-
-<p align="center">
-  <a href="https://www.dio.me/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/digitalinnovationone/template-github-trilha/main/.github/assets/footer.png" alt="banner"/>
-  </a>
-</p>
+## 🔍 Referências:
+- [DIO - CI&T - Do Prompt ao Agente]()
